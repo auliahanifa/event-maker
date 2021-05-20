@@ -1,3 +1,21 @@
+#Step By Step
+*Note: 
+- Project ini belum terintegerasi dengan server-side
+- Menggunakan Json file untuk fetch data
+- Pada Aplikasi terdapat 3 screen: 
+	1. Screen Home (menampilkan carousel data event yang terdapat dalam state)
+	2. Screen Add Event (menampilkan form untuk membuat data event baru)
+	3. Screen Dashboard (menampilkan all data events dalam data table) 
+- Teknologi yang digunakan: 
+	Framework: ReactJs
+	Library: react-bootstrap, fontawesome, react-multi-carousel (untuk carousel card di screen home)
+	
+
+
+Clone project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

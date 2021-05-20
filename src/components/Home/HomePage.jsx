@@ -18,7 +18,8 @@ class HomePage extends Component {
             <div>
                 <Navbar />
                 <div className="container">
-                    <div className="homepage-body">
+                    <div className="homepage-body" style={{marginTop: "3rem"}}>
+                        <h3> Events submitted </h3>
                         <EventCard />       
                     </div>
                 </div>

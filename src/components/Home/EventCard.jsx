@@ -23,7 +23,7 @@ class EventCard extends Component {
                 additionalTransfrom={0}
                 arrows
                 autoPlay
-                autoPlaySpeed={1000}
+                autoPlaySpeed={3000}
                 centerMode={false}
                 className=""
                 containerClass="container-with-dots"
@@ -42,7 +42,7 @@ class EventCard extends Component {
                         max: 3000,
                         min: 1024
                     },
-                    items: 3,
+                    items: 2,
                     partialVisibilityGutter: 40
                     },
                     mobile: {

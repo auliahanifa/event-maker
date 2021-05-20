@@ -22,7 +22,7 @@ const PaginationComponent = ({
                 <Pagination.Item
                     key={i}
                     active={i === currentPage}
-                    onClick={() => onPageChange(i)}
+                    // onClick={() => onPageChange(i)}
                 >
                     {i}
                 </Pagination.Item>
