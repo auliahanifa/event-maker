@@ -1,0 +1,22 @@
+.body-form{
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.body-form h3 {
+    margin-top: -5rem;
+}
+
+.form-add-event {
+    width: 30rem;
+}
+
+.form-add-event label {
+    margin-top:1rem;
+}
+.form-img-carousel {
+    width: 33rem;
+    height: auto;
+}

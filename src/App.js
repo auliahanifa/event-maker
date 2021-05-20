@@ -1,10 +1,39 @@
+import React, { Component } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
+
+import EventTable from './components/Dashboard/EventTable';
+import Homepage from './components/Home/HomePage';
+import FormAddEvent from './components/AddEvent/FormAddEvent';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <Router>
+        <Switch>
+          <Route exact path="/">
+            <Homepage />
+          </Route>
+          <Route exact path="/home">
+            <Homepage />
+          </Route>
+          <Route exact path="/add-event">
+            <FormAddEvent />
+          </Route>
+          <Route exact path="/dashboard">
+            <EventTable />
+          </Route>
+        </Switch>
+
+      </Router>
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +46,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
