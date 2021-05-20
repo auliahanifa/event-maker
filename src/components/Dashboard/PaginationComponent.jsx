@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { Pagination } from 'react-bootstrap';
 
-class PaginationComponent extends Component {
-    render(){
+const PaginationComponent = () => {
         return(
             <Pagination>
                 <Pagination.Prev />
@@ -13,7 +12,6 @@ class PaginationComponent extends Component {
                 <Pagination.Next />
             </Pagination>
         )
-    }    
 }
 
 export default PaginationComponent;

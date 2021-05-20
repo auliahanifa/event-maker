@@ -18,7 +18,8 @@ class EventTable extends Component {
             <div>
                 <Navbar />
                 <div className="container">
-                    {/* <SearchBox /> */}
+                    <SearchBox />
+                    <Header />
                     <Pagination />
                 </div>
             </div>

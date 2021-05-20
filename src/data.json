@@ -1,0 +1,265 @@
+[
+    {   "eventId": 1, 
+        "eventTitle": "Choosing The Right Company That Works For Your Career", 
+        "location": "Menara BNI Lt. 49", 
+        "date": "2021-08-11", 
+        "note": "Memilih perusahaan tempat bekerja itu penting karena berpengaruh besar ke perkembangan karirmu. Untungnya, ada webinar gratis dari Glints yang akan membahas cara memilih perusahaan yang tepat untuk karirmu. Mulai dari perbedaan jenis perusahaan (NGO, start up, perusahaan multinasional, BUMN, dll.)",
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 2, 
+        "eventTitle": "Kelas Kreatif: Let’s Create Your Original Character", 
+        "location": "Menara 101", 
+        "date": "2021-06-22", 
+        "note": "Di sini kemampuan gambarmu akan dikembangkan lebih jauh dengan cara membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai pengembangan karakter, semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+
+    },
+
+    {   "eventId": 3, 
+        "eventTitle": "Webinarku: Tips and Tricks on Essay Writing for Scholarship LPDP ", 
+        "location": "Gd. Balairung Universitas Negeri Jakarta", 
+        "date": "2021-07-02", 
+        "note": "kesempatan ikut webinar tips dan trik penulisan esai LPDP secara gratis di sini. Peserta bisa bertanya langsung ke pembicara yang sukses mendapat beasiswa LPDP, dihadiri alumni Kobe University dan juga London School of Economics.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+
+    },
+
+    {   "eventId": 4, 
+        "eventTitle": "Webinar: Teknologi Budidaya Pangan", 
+        "location": "Menara 101", 
+        "date": "2021-09-02", 
+        "note": "Di sini kemampuan  membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+
+    },
+
+    {"  eventId": 5, 
+        "eventTitle": "Workshop Pemberdayaan AI dalam Pengembangan Rekayasa Genetik", 
+        "location": "Gd. Balairung Universitas Indonesia", 
+        "date": "2021-07-28", 
+        "note": "kesempatan ikut ra gratis di sini. Peserta bisa bertanya langsung kepada pembicara.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+
+    },
+    {   "eventId": 6, 
+        "eventTitle": "Choosing The Right Company That Works For Your Career", 
+        "location": "Menara BNI Lt. 49", 
+        "date": "2021-08-11", 
+        "note": "Memilih perusahaan tempat bekerja itu penting karena berpengaruh besar ke perkembangan karirmu. Untungnya, ada webinar gratis dari Glints yang akan membahas cara memilih perusahaan yang tepat untuk karirmu. Mulai dari perbedaan jenis perusahaan (NGO, start up, perusahaan multinasional, BUMN, dll.)",
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 7, 
+        "eventTitle": "Kelas Kreatif: Let’s Create Your Original Character", 
+        "location": "Menara 101", 
+        "date": "2021-06-22", 
+        "note": "Di sini kemampuan gambarmu akan dikembangkan lebih jauh dengan cara membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai pengembangan karakter, semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 8, 
+        "eventTitle": "Webinarku: Tips and Tricks on Essay Writing for Scholarship LPDP ", 
+        "location": "Gd. Balairung Universitas Negeri Jakarta", 
+        "date": "2021-07-02", 
+        "note": "kesempatan ikut webinar tips dan trik penulisan esai LPDP secara gratis di sini. Peserta bisa bertanya langsung ke pembicara yang sukses mendapat beasiswa LPDP, dihadiri alumni Kobe University dan juga London School of Economics.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 9, 
+        "eventTitle": "Webinar: Teknologi Budidaya Pangan", 
+        "location": "Menara 101", 
+        "date": "2021-09-02", 
+        "note": "Di sini kemampuan  membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {"  eventId": 10, 
+        "eventTitle": "Workshop Pemberdayaan AI dalam Pengembangan Rekayasa Genetik", 
+        "location": "Gd. Balairung Universitas Indonesia", 
+        "date": "2021-07-28", 
+        "note": "kesempatan ikut ra gratis di sini. Peserta bisa bertanya langsung kepada pembicara.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 11, 
+        "eventTitle": "Choosing The Right Company That Works For Your Career", 
+        "location": "Menara BNI Lt. 49", 
+        "date": "2021-08-11", 
+        "note": "Memilih perusahaan tempat bekerja itu penting karena berpengaruh besar ke perkembangan karirmu. Untungnya, ada webinar gratis dari Glints yang akan membahas cara memilih perusahaan yang tepat untuk karirmu. Mulai dari perbedaan jenis perusahaan (NGO, start up, perusahaan multinasional, BUMN, dll.)",
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 12, 
+        "eventTitle": "Kelas Kreatif: Let’s Create Your Original Character", 
+        "location": "Menara 101", 
+        "date": "2021-06-22", 
+        "note": "Di sini kemampuan gambarmu akan dikembangkan lebih jauh dengan cara membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai pengembangan karakter, semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 13, 
+        "eventTitle": "Webinarku: Tips and Tricks on Essay Writing for Scholarship LPDP ", 
+        "location": "Gd. Balairung Universitas Negeri Jakarta", 
+        "date": "2021-07-02", 
+        "note": "kesempatan ikut webinar tips dan trik penulisan esai LPDP secara gratis di sini. Peserta bisa bertanya langsung ke pembicara yang sukses mendapat beasiswa LPDP, dihadiri alumni Kobe University dan juga London School of Economics.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 14, 
+        "eventTitle": "Webinar: Teknologi Budidaya Pangan", 
+        "location": "Menara 101", 
+        "date": "2021-09-02", 
+        "note": "Di sini kemampuan  membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 15, 
+        "eventTitle": "Workshop Pemberdayaan AI dalam Pengembangan Rekayasa Genetik", 
+        "location": "Gd. Balairung Universitas Indonesia", 
+        "date": "2021-07-28", 
+        "note": "kesempatan ikut ra gratis di sini. Peserta bisa bertanya langsung kepada pembicara.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 16, 
+        "eventTitle": "Choosing The Right Company That Works For Your Career", 
+        "location": "Menara BNI Lt. 49", 
+        "date": "2021-08-11", 
+        "note": "Memilih perusahaan tempat bekerja itu penting karena berpengaruh besar ke perkembangan karirmu. Untungnya, ada webinar gratis dari Glints yang akan membahas cara memilih perusahaan yang tepat untuk karirmu. Mulai dari perbedaan jenis perusahaan (NGO, start up, perusahaan multinasional, BUMN, dll.)",
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 17, 
+        "eventTitle": "Kelas Kreatif: Let’s Create Your Original Character", 
+        "location": "Menara 101", 
+        "date": "2021-06-22", 
+        "note": "Di sini kemampuan gambarmu akan dikembangkan lebih jauh dengan cara membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai pengembangan karakter, semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 18, 
+        "eventTitle": "Webinarku: Tips and Tricks on Essay Writing for Scholarship LPDP ", 
+        "location": "Gd. Balairung Universitas Negeri Jakarta", 
+        "date": "2021-07-02", 
+        "note": "kesempatan ikut webinar tips dan trik penulisan esai LPDP secara gratis di sini. Peserta bisa bertanya langsung ke pembicara yang sukses mendapat beasiswa LPDP, dihadiri alumni Kobe University dan juga London School of Economics.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 19, 
+        "eventTitle": "Webinar: Teknologi Budidaya Pangan", 
+        "location": "Menara 101", 
+        "date": "2021-09-02", 
+        "note": "Di sini kemampuan  membuat karaktermu sendiri. Mulai dari anatomi dasar, desain karakter, tips, sampai semuanya akan dikupas tuntas.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    },
+
+    {   "eventId": 20, 
+        "eventTitle": "Workshop Pemberdayaan AI dalam Pengembangan Rekayasa Genetik", 
+        "location": "Gd. Balairung Universitas Indonesia", 
+        "date": "2021-07-28", 
+        "note": "kesempatan ikut ra gratis di sini. Peserta bisa bertanya langsung kepada pembicara.", 
+        "image": "",
+        "participants": [
+            {"name":"Anita Rahma"},
+            {"name":"Michael Candra"},
+            {"name":"Andrea Dian"}
+        ]
+    }
+
+]

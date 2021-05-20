@@ -4,14 +4,13 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
-import logo from './logo.svg';
 import './App.css';
 
 import EventTable from './components/Dashboard/EventTable';
 import Homepage from './components/Home/HomePage';
 import FormAddEvent from './components/AddEvent/FormAddEvent';
+import DataTable from './Pages/DataTable/index';
 
 function App() {
   return (
@@ -28,7 +27,8 @@ function App() {
             <FormAddEvent />
           </Route>
           <Route exact path="/dashboard">
-            <EventTable />
+          {/* <EventTable /> */}
+            <DataTable />
           </Route>
         </Switch>
 
